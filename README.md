@@ -30,6 +30,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="957" alt="schedules2" src="https://github.com/kylelenoir/osticket-Postinstall/assets/138262865/6223e1dc-0116-4845-a8e1-27b76b0093f7">
 </p>
 <p>
-OsTicket interface navigation
+OsTicket interface navigation with precision and knowledge of how the interface works.
 </p>
 <br />
